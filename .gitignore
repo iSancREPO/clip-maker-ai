@@ -1,0 +1,4 @@
+# This file tells git which files/folders to ignore
+*.pyc
+__pycache__/
+.env
