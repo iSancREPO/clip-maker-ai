@@ -1,4 +1,5 @@
-# Face tracker script
-import cv2
+# Face Tracker Module
 
-# Function to track faces in video
+def track_faces(video_file):
+    # Logic to track faces in video
+    pass

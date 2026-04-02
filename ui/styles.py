@@ -1,2 +1,3 @@
-# UI styles file
-# Define styles for the UI components
+# Styles for the UI
+
+# Define UI styles here

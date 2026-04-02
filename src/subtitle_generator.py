@@ -1,3 +1,5 @@
-# Subtitle generator script
+# Subtitle Generator Module
 
-# Function to generate subtitles from audio
+def generate_subtitles(video_file):
+    # Logic to generate subtitles
+    pass

@@ -1,4 +1,7 @@
-# Video downloader script
+# Video Downloader Module
+
 import requests
 
-# Function to download video
+def download_video(url):
+    response = requests.get(url)
+    # Logic to save video

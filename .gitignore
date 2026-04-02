@@ -1,4 +1,8 @@
-# This file tells git which files/folders to ignore
-*.pyc
+# Python
 __pycache__/
+*.py[cod]
+# IDE
+.idea/
+.vscode/
+# Environment
 .env

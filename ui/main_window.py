@@ -1,4 +1,6 @@
-# Main window for the UI
-from PyQt5 import QtWidgets
+# Main Window for the UI
 
-# Setup main window
+class MainWindow:
+    def __init__(self):
+        # Initialize main window
+        pass

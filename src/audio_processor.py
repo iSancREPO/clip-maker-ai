@@ -1,4 +1,5 @@
-# Audio processor script
-import numpy as np
+# Audio Processor Module
 
-# Function to process audio
+def process_audio(audio_file):
+    # Logic to process audio
+    pass
